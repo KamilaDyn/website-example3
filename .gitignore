@@ -1,0 +1,6 @@
+#ignore folder sass
+sass
+#ignore files .scss
+*.scss
+#ignore files .css.map
+*.css.map
